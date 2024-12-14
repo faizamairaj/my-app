@@ -1,5 +1,5 @@
 import SignUp from "@/components/SignUp";
-function Signup() {
+function signup() {
     return(
         <main>
         <SignUp/>
