@@ -25,12 +25,12 @@ const Hero = () => {
               Men's Fashion <ChevronRight className="ml-2" />
             </li>
             <li className="relative">Electronics</li>
-            <li className="relative">Home & Lifestyle</li>
+            <li className="relative">Home &apos; Lifestyle</li>
             <li className="relative">Medicine</li>
-            <li className="relative">Sports & Toys</li>
+            <li className="relative">Sports &apos; Toys</li>
             <li className="relative">Baby's Toys</li>
-            <li className="relative">Groceries & Pets</li>
-            <li className="relative">Health & Beauty</li>
+            <li className="relative">Groceries &apos; Pets</li>
+            <li className="relative">Health &apos; Beauty</li>
           </ul>
         </div>
 
