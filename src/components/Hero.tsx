@@ -19,10 +19,10 @@ const Hero = () => {
             ></div>
 
             <li className="flex items-center relative">
-              Women's Fashion <ChevronRight className="ml-2" />
+              Women&#39;s Fashion <ChevronRight className="ml-2" />
             </li>
             <li className="flex items-center relative">
-              Men's Fashion <ChevronRight className="ml-2" />
+              Men&#39;s Fashion <ChevronRight className="ml-2" />
             </li>
             <li className="relative">Electronics</li>
             <li className="relative">Home Lifestyle</li>
