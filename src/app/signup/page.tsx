@@ -6,4 +6,4 @@ function signup() {
         </main>
     );
 }
-export default SignUp;
+export default signup;

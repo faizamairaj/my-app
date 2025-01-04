@@ -28,7 +28,7 @@ const Hero = () => {
             <li className="relative">Home Lifestyle</li>
             <li className="relative">Medicine</li>
             <li className="relative">Sports Toys</li>
-            <li className="relative">Baby's Toys</li>
+            <li className="relative">Babys Toys</li>
             <li className="relative">Groceries Pets</li>
             <li className="relative">Health Beauty</li>
           </ul>
